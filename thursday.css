@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+}
+p{
+    color: rgb(129, 169, 36);
+    /* background-color:black; */
+    padding: 20px 10px ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.batch{
+    color: blue;
+    background-color: rgba(179, 226, 23, 0.509);
+}
